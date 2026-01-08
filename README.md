@@ -61,7 +61,7 @@ Create a `.env` file in the project root:
 ALERTS_API_TOKEN=your_alerts_api_token_here
 TELEGRAM_BOT_TOKEN=your_telegram_bot_token_here
 TELEGRAM_CHANNEL_ID=@your_channel_id
-DNIPRO_UID=332
+DNIPRO_UID=44
 CHECK_INTERVAL=30
 LOG_FILE=alert.log
 ```
