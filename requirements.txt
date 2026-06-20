@@ -1,0 +1,3 @@
+alerts_in_ua
+aiogram
+python-dotenv
